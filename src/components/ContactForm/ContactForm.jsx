@@ -1,5 +1,4 @@
 import React, { useState } from 'react';
-import Notiflix from 'notiflix';
 import { nanoid } from 'nanoid';
 import { Form, Input, Text, Button } from './ContactForm.styled';
 
